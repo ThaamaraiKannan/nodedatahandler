@@ -1,0 +1,14 @@
+{
+  "name": "nodetoolkit",
+  "version": "1.0.0",
+  "description": "Node Package for maintaining database connection and also build headers and responses in easier way ",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Thaamarai Kannan",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "mysql": "^2.18.1",
+    "util": "^0.12.5"
+  }
+}
