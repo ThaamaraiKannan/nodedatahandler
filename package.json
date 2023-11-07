@@ -10,5 +10,9 @@
     "date-fns": "^2.30.0",
     "mysql": "^2.18.1",
     "util": "^0.12.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThaamaraiKannan/nodedatahandler.git"
   }
 }
