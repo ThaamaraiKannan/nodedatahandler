@@ -1,5 +1,5 @@
 {
-  "name": "nodetoolkit",
+  "name": "nodedatahandler",
   "version": "1.0.0",
   "description": "Node Package for maintaining database connection and also build headers and responses in easier way ",
   "main": "index.js",
